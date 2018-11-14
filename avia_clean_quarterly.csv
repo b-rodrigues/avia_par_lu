@@ -1,0 +1,1326 @@
+unit,tra_meas,destination,date,passengers
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2018-01-01,10900
+Passenger,Passengers on board (arrivals),ZURICH,2018-01-01,14777
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2018-01-01,22038
+Passenger,Passengers on board (arrivals),MUENCHEN,2018-01-01,24003
+Passenger,Passengers on board (arrivals),BARCELONA/EL PRAT,2018-01-01,11966
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2018-01-01,14800
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2018-01-01,11990
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2018-01-01,16566
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2018-01-01,21020
+Passenger,Passengers on board (arrivals),PORTO,2018-01-01,37018
+Passenger,Passengers on board (arrivals),LISBOA,2018-01-01,32198
+Passenger,Passengers on board (arrivals),LONDON/CITY,2018-01-01,18869
+Passenger,Passengers on board (arrivals),LONDON HEATHROW,2018-01-01,18492
+Passenger,Passengers on board (arrivals),LONDON STANSTED,2018-01-01,13571
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2017-10-01,13151
+Passenger,Passengers on board (arrivals),GENEVA,2017-10-01,7164
+Passenger,Passengers on board (arrivals),ZURICH,2017-10-01,16417
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2017-10-01,25020
+Passenger,Passengers on board (arrivals),MUENCHEN,2017-10-01,27345
+Passenger,Passengers on board (arrivals),BERLIN-TEGEL,2017-10-01,8501
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2017-10-01,7669
+Passenger,Passengers on board (arrivals),BARCELONA/EL PRAT,2017-10-01,11023
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2017-10-01,14828
+Passenger,Passengers on board (arrivals),MALAGA/COSTA DEL SOL,2017-10-01,5148
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2017-10-01,7358
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2017-10-01,6073
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2017-10-01,13747
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2017-10-01,19154
+Passenger,Passengers on board (arrivals),BERGAMO/ORIO AL SERIO,2017-10-01,7212
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2017-10-01,6728
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2017-10-01,22826
+Passenger,Passengers on board (arrivals),WARSZAWA/CHOPINA,2017-10-01,5941
+Passenger,Passengers on board (arrivals),PORTO,2017-10-01,37536
+Passenger,Passengers on board (arrivals),LISBOA,2017-10-01,32936
+Passenger,Passengers on board (arrivals),ISTANBUL/ATATURK,2017-10-01,8495
+Passenger,Passengers on board (arrivals),LONDON GATWICK,2017-10-01,8915
+Passenger,Passengers on board (arrivals),LONDON/CITY,2017-10-01,22100
+Passenger,Passengers on board (arrivals),LONDON HEATHROW,2017-10-01,20663
+Passenger,Passengers on board (arrivals),LONDON STANSTED,2017-10-01,13806
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2017-07-01,13492
+Passenger,Passengers on board (arrivals),GENEVA,2017-07-01,5164
+Passenger,Passengers on board (arrivals),ZURICH,2017-07-01,16983
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2017-07-01,21761
+Passenger,Passengers on board (arrivals),MUENCHEN,2017-07-01,27346
+Passenger,Passengers on board (arrivals),BERLIN-TEGEL,2017-07-01,8192
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2017-07-01,7652
+Passenger,Passengers on board (arrivals),BARCELONA/EL PRAT,2017-07-01,11363
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2017-07-01,15655
+Passenger,Passengers on board (arrivals),MALAGA/COSTA DEL SOL,2017-07-01,9212
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2017-07-01,22827
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2017-07-01,11301
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2017-07-01,13943
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2017-07-01,17297
+Passenger,Passengers on board (arrivals),BERGAMO/ORIO AL SERIO,2017-07-01,8008
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2017-07-01,9271
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2017-07-01,19801
+Passenger,Passengers on board (arrivals),WARSZAWA/CHOPINA,2017-07-01,6015
+Passenger,Passengers on board (arrivals),PORTO,2017-07-01,40988
+Passenger,Passengers on board (arrivals),LISBOA,2017-07-01,32884
+Passenger,Passengers on board (arrivals),ISTANBUL/ATATURK,2017-07-01,11645
+Passenger,Passengers on board (arrivals),LONDON GATWICK,2017-07-01,7053
+Passenger,Passengers on board (arrivals),LONDON/CITY,2017-07-01,20205
+Passenger,Passengers on board (arrivals),LONDON HEATHROW,2017-07-01,19834
+Passenger,Passengers on board (arrivals),LONDON STANSTED,2017-07-01,15006
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2017-04-01,13972
+Passenger,Passengers on board (arrivals),GENEVA,2017-04-01,7292
+Passenger,Passengers on board (arrivals),ZURICH,2017-04-01,18102
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2017-04-01,22006
+Passenger,Passengers on board (arrivals),MUENCHEN,2017-04-01,27496
+Passenger,Passengers on board (arrivals),BERLIN-TEGEL,2017-04-01,8603
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2017-04-01,8343
+Passenger,Passengers on board (arrivals),BARCELONA/EL PRAT,2017-04-01,9941
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2017-04-01,16032
+Passenger,Passengers on board (arrivals),MALAGA/COSTA DEL SOL,2017-04-01,7959
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2017-04-01,15983
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2017-04-01,9400
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2017-04-01,12621
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2017-04-01,21295
+Passenger,Passengers on board (arrivals),BERGAMO/ORIO AL SERIO,2017-04-01,7571
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2017-04-01,9420
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2017-04-01,22614
+Passenger,Passengers on board (arrivals),WARSZAWA/CHOPINA,2017-04-01,5118
+Passenger,Passengers on board (arrivals),PORTO,2017-04-01,37253
+Passenger,Passengers on board (arrivals),LISBOA,2017-04-01,34348
+Passenger,Passengers on board (arrivals),ISTANBUL/ATATURK,2017-04-01,8121
+Passenger,Passengers on board (arrivals),LONDON GATWICK,2017-04-01,7904
+Passenger,Passengers on board (arrivals),LONDON/CITY,2017-04-01,23625
+Passenger,Passengers on board (arrivals),LONDON HEATHROW,2017-04-01,19033
+Passenger,Passengers on board (arrivals),LONDON STANSTED,2017-04-01,14833
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2017-01-01,10605
+Passenger,Passengers on board (arrivals),GENEVA,2017-01-01,7153
+Passenger,Passengers on board (arrivals),ZURICH,2017-01-01,14481
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2017-01-01,22585
+Passenger,Passengers on board (arrivals),MUENCHEN,2017-01-01,24144
+Passenger,Passengers on board (arrivals),BERLIN-TEGEL,2017-01-01,6466
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2017-01-01,5273
+Passenger,Passengers on board (arrivals),BARCELONA/EL PRAT,2017-01-01,4650
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2017-01-01,7738
+Passenger,Passengers on board (arrivals),MALAGA/COSTA DEL SOL,2017-01-01,2768
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2017-01-01,2275
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2017-01-01,4615
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2017-01-01,11494
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2017-01-01,17480
+Passenger,Passengers on board (arrivals),BERGAMO/ORIO AL SERIO,2017-01-01,271
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2017-01-01,5031
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2017-01-01,17924
+Passenger,Passengers on board (arrivals),WARSZAWA/CHOPINA,2017-01-01,3085
+Passenger,Passengers on board (arrivals),PORTO,2017-01-01,34950
+Passenger,Passengers on board (arrivals),LISBOA,2017-01-01,23315
+Passenger,Passengers on board (arrivals),ISTANBUL/ATATURK,2017-01-01,4783
+Passenger,Passengers on board (arrivals),LONDON GATWICK,2017-01-01,7712
+Passenger,Passengers on board (arrivals),LONDON/CITY,2017-01-01,19051
+Passenger,Passengers on board (arrivals),LONDON HEATHROW,2017-01-01,16534
+Passenger,Passengers on board (arrivals),LONDON STANSTED,2017-01-01,13448
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2016-10-01,13072
+Passenger,Passengers on board (arrivals),GENEVA,2016-10-01,6764
+Passenger,Passengers on board (arrivals),ZURICH,2016-10-01,16078
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2016-10-01,21605
+Passenger,Passengers on board (arrivals),MUENCHEN,2016-10-01,28607
+Passenger,Passengers on board (arrivals),BERLIN-TEGEL,2016-10-01,7419
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2016-10-01,6205
+Passenger,Passengers on board (arrivals),BARCELONA/EL PRAT,2016-10-01,6479
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2016-10-01,6805
+Passenger,Passengers on board (arrivals),MALAGA/COSTA DEL SOL,2016-10-01,5288
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2016-10-01,7149
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2016-10-01,5340
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2016-10-01,11057
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2016-10-01,16886
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2016-10-01,6512
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2016-10-01,20472
+Passenger,Passengers on board (arrivals),PORTO,2016-10-01,33208
+Passenger,Passengers on board (arrivals),LISBOA,2016-10-01,23819
+Passenger,Passengers on board (arrivals),ISTANBUL/ATATURK,2016-10-01,5975
+Passenger,Passengers on board (arrivals),LONDON GATWICK,2016-10-01,8763
+Passenger,Passengers on board (arrivals),LONDON/CITY,2016-10-01,22368
+Passenger,Passengers on board (arrivals),LONDON HEATHROW,2016-10-01,18723
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2016-07-01,12833
+Passenger,Passengers on board (arrivals),GENEVA,2016-07-01,4766
+Passenger,Passengers on board (arrivals),ZURICH,2016-07-01,15411
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2016-07-01,22946
+Passenger,Passengers on board (arrivals),MUENCHEN,2016-07-01,25916
+Passenger,Passengers on board (arrivals),BERLIN-TEGEL,2016-07-01,7105
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2016-07-01,6227
+Passenger,Passengers on board (arrivals),BARCELONA/EL PRAT,2016-07-01,11514
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2016-07-01,6682
+Passenger,Passengers on board (arrivals),MALAGA/COSTA DEL SOL,2016-07-01,9596
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2016-07-01,22284
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2016-07-01,8840
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2016-07-01,11362
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2016-07-01,15303
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2016-07-01,9027
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2016-07-01,20388
+Passenger,Passengers on board (arrivals),PORTO,2016-07-01,29543
+Passenger,Passengers on board (arrivals),LISBOA,2016-07-01,21489
+Passenger,Passengers on board (arrivals),ISTANBUL/ATATURK,2016-07-01,8919
+Passenger,Passengers on board (arrivals),LONDON GATWICK,2016-07-01,8520
+Passenger,Passengers on board (arrivals),LONDON/CITY,2016-07-01,22577
+Passenger,Passengers on board (arrivals),LONDON HEATHROW,2016-07-01,17979
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2016-04-01,13978
+Passenger,Passengers on board (arrivals),GENEVA,2016-04-01,7180
+Passenger,Passengers on board (arrivals),ZURICH,2016-04-01,14934
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2016-04-01,22747
+Passenger,Passengers on board (arrivals),MUENCHEN,2016-04-01,27123
+Passenger,Passengers on board (arrivals),BERLIN-TEGEL,2016-04-01,7089
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2016-04-01,6953
+Passenger,Passengers on board (arrivals),BARCELONA/EL PRAT,2016-04-01,10531
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2016-04-01,7111
+Passenger,Passengers on board (arrivals),MALAGA/COSTA DEL SOL,2016-04-01,8188
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2016-04-01,16596
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2016-04-01,8226
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2016-04-01,10934
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2016-04-01,17564
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2016-04-01,8850
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2016-04-01,22575
+Passenger,Passengers on board (arrivals),PORTO,2016-04-01,27314
+Passenger,Passengers on board (arrivals),LISBOA,2016-04-01,22551
+Passenger,Passengers on board (arrivals),ISTANBUL/ATATURK,2016-04-01,7496
+Passenger,Passengers on board (arrivals),LONDON GATWICK,2016-04-01,9267
+Passenger,Passengers on board (arrivals),LONDON/CITY,2016-04-01,24439
+Passenger,Passengers on board (arrivals),LONDON HEATHROW,2016-04-01,17974
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2016-01-01,10735
+Passenger,Passengers on board (arrivals),GENEVA,2016-01-01,7213
+Passenger,Passengers on board (arrivals),ZURICH,2016-01-01,12256
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2016-01-01,18616
+Passenger,Passengers on board (arrivals),MUENCHEN,2016-01-01,22321
+Passenger,Passengers on board (arrivals),BERLIN-TEGEL,2016-01-01,6160
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2016-01-01,5102
+Passenger,Passengers on board (arrivals),BARCELONA/EL PRAT,2016-01-01,4276
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2016-01-01,5829
+Passenger,Passengers on board (arrivals),MALAGA/COSTA DEL SOL,2016-01-01,3473
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2016-01-01,2684
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2016-01-01,4694
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2016-01-01,10659
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2016-01-01,14590
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2016-01-01,5532
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2016-01-01,17335
+Passenger,Passengers on board (arrivals),PORTO,2016-01-01,24946
+Passenger,Passengers on board (arrivals),LISBOA,2016-01-01,15278
+Passenger,Passengers on board (arrivals),ISTANBUL/ATATURK,2016-01-01,7777
+Passenger,Passengers on board (arrivals),LONDON GATWICK,2016-01-01,8651
+Passenger,Passengers on board (arrivals),LONDON/CITY,2016-01-01,20062
+Passenger,Passengers on board (arrivals),LONDON HEATHROW,2016-01-01,16120
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2015-10-01,13074
+Passenger,Passengers on board (arrivals),GENEVA,2015-10-01,6852
+Passenger,Passengers on board (arrivals),ZURICH,2015-10-01,15417
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2015-10-01,16064
+Passenger,Passengers on board (arrivals),MUENCHEN,2015-10-01,25413
+Passenger,Passengers on board (arrivals),BERLIN-TEGEL,2015-10-01,6641
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2015-10-01,8188
+Passenger,Passengers on board (arrivals),BARCELONA/EL PRAT,2015-10-01,5066
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2015-10-01,6272
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2015-10-01,6690
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2015-10-01,4909
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2015-10-01,10220
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2015-10-01,15589
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2015-10-01,5824
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2015-10-01,18705
+Passenger,Passengers on board (arrivals),PORTO,2015-10-01,25026
+Passenger,Passengers on board (arrivals),LISBOA,2015-10-01,16640
+Passenger,Passengers on board (arrivals),ANTALYA (MIL-CIV),2015-10-01,2779
+Passenger,Passengers on board (arrivals),ISTANBUL/ATATURK,2015-10-01,8821
+Passenger,Passengers on board (arrivals),LONDON GATWICK,2015-10-01,9520
+Passenger,Passengers on board (arrivals),LONDON/CITY,2015-10-01,22477
+Passenger,Passengers on board (arrivals),LONDON HEATHROW,2015-10-01,18982
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2015-07-01,12231
+Passenger,Passengers on board (arrivals),GENEVA,2015-07-01,4921
+Passenger,Passengers on board (arrivals),ZURICH,2015-07-01,15752
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2015-07-01,15012
+Passenger,Passengers on board (arrivals),MUENCHEN,2015-07-01,19215
+Passenger,Passengers on board (arrivals),BERLIN-TEGEL,2015-07-01,7991
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2015-07-01,11486
+Passenger,Passengers on board (arrivals),BARCELONA/EL PRAT,2015-07-01,13050
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2015-07-01,4203
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2015-07-01,24266
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2015-07-01,8475
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2015-07-01,10366
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2015-07-01,15995
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2015-07-01,8071
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2015-07-01,19340
+Passenger,Passengers on board (arrivals),PORTO,2015-07-01,26043
+Passenger,Passengers on board (arrivals),LISBOA,2015-07-01,21317
+Passenger,Passengers on board (arrivals),ANTALYA (MIL-CIV),2015-07-01,13273
+Passenger,Passengers on board (arrivals),ISTANBUL/ATATURK,2015-07-01,10734
+Passenger,Passengers on board (arrivals),LONDON GATWICK,2015-07-01,7536
+Passenger,Passengers on board (arrivals),LONDON/CITY,2015-07-01,23207
+Passenger,Passengers on board (arrivals),LONDON HEATHROW,2015-07-01,20213
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2015-04-01,12887
+Passenger,Passengers on board (arrivals),GENEVA,2015-04-01,6687
+Passenger,Passengers on board (arrivals),ZURICH,2015-04-01,16160
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2015-04-01,15164
+Passenger,Passengers on board (arrivals),MUENCHEN,2015-04-01,21158
+Passenger,Passengers on board (arrivals),BERLIN-TEGEL,2015-04-01,8184
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2015-04-01,11921
+Passenger,Passengers on board (arrivals),BARCELONA/EL PRAT,2015-04-01,9538
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2015-04-01,6472
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2015-04-01,13797
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2015-04-01,6871
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2015-04-01,9484
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2015-04-01,16261
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2015-04-01,8056
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2015-04-01,21172
+Passenger,Passengers on board (arrivals),PORTO,2015-04-01,17994
+Passenger,Passengers on board (arrivals),LISBOA,2015-04-01,20585
+Passenger,Passengers on board (arrivals),ANTALYA (MIL-CIV),2015-04-01,5385
+Passenger,Passengers on board (arrivals),ISTANBUL/ATATURK,2015-04-01,9672
+Passenger,Passengers on board (arrivals),LONDON GATWICK,2015-04-01,7547
+Passenger,Passengers on board (arrivals),LONDON/CITY,2015-04-01,25137
+Passenger,Passengers on board (arrivals),LONDON HEATHROW,2015-04-01,17648
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2015-01-01,9019
+Passenger,Passengers on board (arrivals),GENEVA,2015-01-01,6371
+Passenger,Passengers on board (arrivals),ZURICH,2015-01-01,13769
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2015-01-01,13346
+Passenger,Passengers on board (arrivals),MUENCHEN,2015-01-01,17600
+Passenger,Passengers on board (arrivals),BERLIN-TEGEL,2015-01-01,3222
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2015-01-01,7624
+Passenger,Passengers on board (arrivals),BARCELONA/EL PRAT,2015-01-01,3937
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2015-01-01,4281
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2015-01-01,669
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2015-01-01,3748
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2015-01-01,7894
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2015-01-01,13334
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2015-01-01,3915
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2015-01-01,14764
+Passenger,Passengers on board (arrivals),PORTO,2015-01-01,14241
+Passenger,Passengers on board (arrivals),LISBOA,2015-01-01,14418
+Passenger,Passengers on board (arrivals),ANTALYA (MIL-CIV),2015-01-01,0
+Passenger,Passengers on board (arrivals),ISTANBUL/ATATURK,2015-01-01,7471
+Passenger,Passengers on board (arrivals),LONDON GATWICK,2015-01-01,6665
+Passenger,Passengers on board (arrivals),LONDON/CITY,2015-01-01,20112
+Passenger,Passengers on board (arrivals),LONDON HEATHROW,2015-01-01,14439
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2014-10-01,10135
+Passenger,Passengers on board (arrivals),GENEVA,2014-10-01,6750
+Passenger,Passengers on board (arrivals),ZURICH,2014-10-01,15436
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2014-10-01,14754
+Passenger,Passengers on board (arrivals),MUENCHEN,2014-10-01,20737
+Passenger,Passengers on board (arrivals),SAARBRUECKEN,2014-10-01,5771
+Passenger,Passengers on board (arrivals),BERLIN-TEGEL,2014-10-01,3418
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2014-10-01,10724
+Passenger,Passengers on board (arrivals),IRAKLION/NIKOS KAZANTZAKIS,2014-10-01,1158
+Passenger,Passengers on board (arrivals),GRAN CANARIA,2014-10-01,4986
+Passenger,Passengers on board (arrivals),TENERIFE SUR/REINA SOFIA,2014-10-01,3213
+Passenger,Passengers on board (arrivals),BARCELONA/EL PRAT,2014-10-01,5158
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2014-10-01,4411
+Passenger,Passengers on board (arrivals),MALAGA/COSTA DEL SOL,2014-10-01,2688
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2014-10-01,3528
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2014-10-01,4090
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2014-10-01,8498
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2014-10-01,14494
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2014-10-01,4846
+Passenger,Passengers on board (arrivals),AGADIR/AL MASSIRA,2014-10-01,2668
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2014-10-01,16012
+Passenger,Passengers on board (arrivals),PORTO,2014-10-01,14027
+Passenger,Passengers on board (arrivals),LISBOA,2014-10-01,15256
+Passenger,Passengers on board (arrivals),ENFIDHA-HAMMAMET INTERNATIONAL,2014-10-01,2336
+Passenger,Passengers on board (arrivals),DJERBA/ZARZIS,2014-10-01,3474
+Passenger,Passengers on board (arrivals),ANTALYA (MIL-CIV),2014-10-01,2746
+Passenger,Passengers on board (arrivals),ISTANBUL/ATATURK,2014-10-01,9172
+Passenger,Passengers on board (arrivals),LONDON GATWICK,2014-10-01,8056
+Passenger,Passengers on board (arrivals),LONDON/CITY,2014-10-01,22044
+Passenger,Passengers on board (arrivals),LONDON HEATHROW,2014-10-01,17331
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2014-07-01,9713
+Passenger,Passengers on board (arrivals),GENEVA,2014-07-01,5205
+Passenger,Passengers on board (arrivals),ZURICH,2014-07-01,16275
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2014-07-01,15786
+Passenger,Passengers on board (arrivals),MUENCHEN,2014-07-01,17861
+Passenger,Passengers on board (arrivals),SAARBRUECKEN,2014-07-01,6418
+Passenger,Passengers on board (arrivals),BERLIN-TEGEL,2014-07-01,3734
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2014-07-01,9724
+Passenger,Passengers on board (arrivals),IRAKLION/NIKOS KAZANTZAKIS,2014-07-01,5891
+Passenger,Passengers on board (arrivals),GRAN CANARIA,2014-07-01,3354
+Passenger,Passengers on board (arrivals),TENERIFE SUR/REINA SOFIA,2014-07-01,3538
+Passenger,Passengers on board (arrivals),BARCELONA/EL PRAT,2014-07-01,10337
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2014-07-01,4236
+Passenger,Passengers on board (arrivals),MALAGA/COSTA DEL SOL,2014-07-01,5494
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2014-07-01,18635
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2014-07-01,5438
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2014-07-01,8394
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2014-07-01,13777
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2014-07-01,5358
+Passenger,Passengers on board (arrivals),AGADIR/AL MASSIRA,2014-07-01,3559
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2014-07-01,17620
+Passenger,Passengers on board (arrivals),PORTO,2014-07-01,18318
+Passenger,Passengers on board (arrivals),LISBOA,2014-07-01,19100
+Passenger,Passengers on board (arrivals),ENFIDHA-HAMMAMET INTERNATIONAL,2014-07-01,4239
+Passenger,Passengers on board (arrivals),DJERBA/ZARZIS,2014-07-01,9624
+Passenger,Passengers on board (arrivals),ANTALYA (MIL-CIV),2014-07-01,10884
+Passenger,Passengers on board (arrivals),ISTANBUL/ATATURK,2014-07-01,8777
+Passenger,Passengers on board (arrivals),LONDON GATWICK,2014-07-01,9941
+Passenger,Passengers on board (arrivals),LONDON/CITY,2014-07-01,19712
+Passenger,Passengers on board (arrivals),LONDON HEATHROW,2014-07-01,17144
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2014-04-01,11615
+Passenger,Passengers on board (arrivals),GENEVA,2014-04-01,7026
+Passenger,Passengers on board (arrivals),ZURICH,2014-04-01,16841
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2014-04-01,14794
+Passenger,Passengers on board (arrivals),MUENCHEN,2014-04-01,18495
+Passenger,Passengers on board (arrivals),SAARBRUECKEN,2014-04-01,6578
+Passenger,Passengers on board (arrivals),BERLIN-TEGEL,2014-04-01,3987
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2014-04-01,13213
+Passenger,Passengers on board (arrivals),IRAKLION/NIKOS KAZANTZAKIS,2014-04-01,3336
+Passenger,Passengers on board (arrivals),GRAN CANARIA,2014-04-01,3516
+Passenger,Passengers on board (arrivals),TENERIFE SUR/REINA SOFIA,2014-04-01,3242
+Passenger,Passengers on board (arrivals),BARCELONA/EL PRAT,2014-04-01,9424
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2014-04-01,4986
+Passenger,Passengers on board (arrivals),MALAGA/COSTA DEL SOL,2014-04-01,5848
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2014-04-01,11506
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2014-04-01,5349
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2014-04-01,8705
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2014-04-01,14619
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2014-04-01,5675
+Passenger,Passengers on board (arrivals),AGADIR/AL MASSIRA,2014-04-01,3469
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2014-04-01,17936
+Passenger,Passengers on board (arrivals),PORTO,2014-04-01,15140
+Passenger,Passengers on board (arrivals),LISBOA,2014-04-01,19024
+Passenger,Passengers on board (arrivals),ENFIDHA-HAMMAMET INTERNATIONAL,2014-04-01,2919
+Passenger,Passengers on board (arrivals),DJERBA/ZARZIS,2014-04-01,4660
+Passenger,Passengers on board (arrivals),ANTALYA (MIL-CIV),2014-04-01,4816
+Passenger,Passengers on board (arrivals),ISTANBUL/ATATURK,2014-04-01,8274
+Passenger,Passengers on board (arrivals),LONDON GATWICK,2014-04-01,10117
+Passenger,Passengers on board (arrivals),LONDON/CITY,2014-04-01,23163
+Passenger,Passengers on board (arrivals),LONDON HEATHROW,2014-04-01,16769
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2014-01-01,8153
+Passenger,Passengers on board (arrivals),GENEVA,2014-01-01,6752
+Passenger,Passengers on board (arrivals),ZURICH,2014-01-01,14073
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2014-01-01,13469
+Passenger,Passengers on board (arrivals),MUENCHEN,2014-01-01,16043
+Passenger,Passengers on board (arrivals),SAARBRUECKEN,2014-01-01,5165
+Passenger,Passengers on board (arrivals),BERLIN-TEGEL,2014-01-01,2835
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2014-01-01,8470
+Passenger,Passengers on board (arrivals),GRAN CANARIA,2014-01-01,3699
+Passenger,Passengers on board (arrivals),TENERIFE SUR/REINA SOFIA,2014-01-01,4565
+Passenger,Passengers on board (arrivals),BARCELONA/EL PRAT,2014-01-01,3601
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2014-01-01,4412
+Passenger,Passengers on board (arrivals),MALAGA/COSTA DEL SOL,2014-01-01,1656
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2014-01-01,652
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2014-01-01,3771
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2014-01-01,7775
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2014-01-01,13104
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2014-01-01,4116
+Passenger,Passengers on board (arrivals),AGADIR/AL MASSIRA,2014-01-01,2466
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2014-01-01,15099
+Passenger,Passengers on board (arrivals),PORTO,2014-01-01,12852
+Passenger,Passengers on board (arrivals),LISBOA,2014-01-01,13826
+Passenger,Passengers on board (arrivals),ENFIDHA-HAMMAMET INTERNATIONAL,2014-01-01,2070
+Passenger,Passengers on board (arrivals),DJERBA/ZARZIS,2014-01-01,1369
+Passenger,Passengers on board (arrivals),ANTALYA (MIL-CIV),2014-01-01,0
+Passenger,Passengers on board (arrivals),ISTANBUL/ATATURK,2014-01-01,5046
+Passenger,Passengers on board (arrivals),LONDON GATWICK,2014-01-01,6888
+Passenger,Passengers on board (arrivals),LONDON/CITY,2014-01-01,22726
+Passenger,Passengers on board (arrivals),LONDON HEATHROW,2014-01-01,13636
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2013-10-01,9134
+Passenger,Passengers on board (arrivals),GENEVA,2013-10-01,6612
+Passenger,Passengers on board (arrivals),ZURICH,2013-10-01,14285
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2013-10-01,14274
+Passenger,Passengers on board (arrivals),MUENCHEN,2013-10-01,18084
+Passenger,Passengers on board (arrivals),SAARBRUECKEN,2013-10-01,5705
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2013-10-01,9475
+Passenger,Passengers on board (arrivals),FUERTEVENTURA,2013-10-01,2621
+Passenger,Passengers on board (arrivals),GRAN CANARIA,2013-10-01,3646
+Passenger,Passengers on board (arrivals),TENERIFE SUR/REINA SOFIA,2013-10-01,3719
+Passenger,Passengers on board (arrivals),BARCELONA/EL PRAT,2013-10-01,5003
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2013-10-01,4292
+Passenger,Passengers on board (arrivals),MALAGA/COSTA DEL SOL,2013-10-01,2377
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2013-10-01,3719
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2013-10-01,3928
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2013-10-01,8051
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2013-10-01,12652
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2013-10-01,4314
+Passenger,Passengers on board (arrivals),AGADIR/AL MASSIRA,2013-10-01,2281
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2013-10-01,15497
+Passenger,Passengers on board (arrivals),PORTO,2013-10-01,12180
+Passenger,Passengers on board (arrivals),LISBOA,2013-10-01,8966
+Passenger,Passengers on board (arrivals),ENFIDHA-HAMMAMET INTERNATIONAL,2013-10-01,2413
+Passenger,Passengers on board (arrivals),DJERBA/ZARZIS,2013-10-01,3051
+Passenger,Passengers on board (arrivals),ANTALYA (MIL-CIV),2013-10-01,3081
+Passenger,Passengers on board (arrivals),ISTANBUL/ATATURK,2013-10-01,5611
+Passenger,Passengers on board (arrivals),LONDON GATWICK,2013-10-01,9146
+Passenger,Passengers on board (arrivals),LONDON/CITY,2013-10-01,22533
+Passenger,Passengers on board (arrivals),LONDON HEATHROW,2013-10-01,15280
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2013-07-01,8380
+Passenger,Passengers on board (arrivals),GENEVA,2013-07-01,5268
+Passenger,Passengers on board (arrivals),ZURICH,2013-07-01,14813
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2013-07-01,16330
+Passenger,Passengers on board (arrivals),MUENCHEN,2013-07-01,18203
+Passenger,Passengers on board (arrivals),SAARBRUECKEN,2013-07-01,6860
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2013-07-01,8142
+Passenger,Passengers on board (arrivals),FUERTEVENTURA,2013-07-01,3250
+Passenger,Passengers on board (arrivals),GRAN CANARIA,2013-07-01,3276
+Passenger,Passengers on board (arrivals),TENERIFE SUR/REINA SOFIA,2013-07-01,4040
+Passenger,Passengers on board (arrivals),BARCELONA/EL PRAT,2013-07-01,10844
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2013-07-01,4056
+Passenger,Passengers on board (arrivals),MALAGA/COSTA DEL SOL,2013-07-01,5438
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2013-07-01,20186
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2013-07-01,5605
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2013-07-01,8535
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2013-07-01,12352
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2013-07-01,5475
+Passenger,Passengers on board (arrivals),AGADIR/AL MASSIRA,2013-07-01,3156
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2013-07-01,15882
+Passenger,Passengers on board (arrivals),PORTO,2013-07-01,15787
+Passenger,Passengers on board (arrivals),LISBOA,2013-07-01,8578
+Passenger,Passengers on board (arrivals),ENFIDHA-HAMMAMET INTERNATIONAL,2013-07-01,4594
+Passenger,Passengers on board (arrivals),DJERBA/ZARZIS,2013-07-01,8549
+Passenger,Passengers on board (arrivals),ANTALYA (MIL-CIV),2013-07-01,10523
+Passenger,Passengers on board (arrivals),ISTANBUL/ATATURK,2013-07-01,5478
+Passenger,Passengers on board (arrivals),LONDON GATWICK,2013-07-01,9724
+Passenger,Passengers on board (arrivals),LONDON/CITY,2013-07-01,21310
+Passenger,Passengers on board (arrivals),LONDON HEATHROW,2013-07-01,16526
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2013-04-01,9294
+Passenger,Passengers on board (arrivals),GENEVA,2013-04-01,6550
+Passenger,Passengers on board (arrivals),ZURICH,2013-04-01,16167
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2013-04-01,15299
+Passenger,Passengers on board (arrivals),MUENCHEN,2013-04-01,19229
+Passenger,Passengers on board (arrivals),SAARBRUECKEN,2013-04-01,8667
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2013-04-01,8358
+Passenger,Passengers on board (arrivals),FUERTEVENTURA,2013-04-01,3185
+Passenger,Passengers on board (arrivals),GRAN CANARIA,2013-04-01,3418
+Passenger,Passengers on board (arrivals),TENERIFE SUR/REINA SOFIA,2013-04-01,2922
+Passenger,Passengers on board (arrivals),BARCELONA/EL PRAT,2013-04-01,7498
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2013-04-01,4639
+Passenger,Passengers on board (arrivals),MALAGA/COSTA DEL SOL,2013-04-01,4503
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2013-04-01,10995
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2013-04-01,5528
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2013-04-01,8368
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2013-04-01,12122
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2013-04-01,5679
+Passenger,Passengers on board (arrivals),AGADIR/AL MASSIRA,2013-04-01,3491
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2013-04-01,17353
+Passenger,Passengers on board (arrivals),PORTO,2013-04-01,10708
+Passenger,Passengers on board (arrivals),LISBOA,2013-04-01,7996
+Passenger,Passengers on board (arrivals),ENFIDHA-HAMMAMET INTERNATIONAL,2013-04-01,4007
+Passenger,Passengers on board (arrivals),DJERBA/ZARZIS,2013-04-01,2740
+Passenger,Passengers on board (arrivals),ANTALYA (MIL-CIV),2013-04-01,3662
+Passenger,Passengers on board (arrivals),ISTANBUL/ATATURK,2013-04-01,313
+Passenger,Passengers on board (arrivals),LONDON GATWICK,2013-04-01,8190
+Passenger,Passengers on board (arrivals),LONDON/CITY,2013-04-01,24387
+Passenger,Passengers on board (arrivals),LONDON HEATHROW,2013-04-01,15677
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2013-01-01,6831
+Passenger,Passengers on board (arrivals),GENEVA,2013-01-01,6420
+Passenger,Passengers on board (arrivals),ZURICH,2013-01-01,13594
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2013-01-01,11831
+Passenger,Passengers on board (arrivals),MUENCHEN,2013-01-01,17290
+Passenger,Passengers on board (arrivals),SAARBRUECKEN,2013-01-01,5843
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2013-01-01,5524
+Passenger,Passengers on board (arrivals),FUERTEVENTURA,2013-01-01,2007
+Passenger,Passengers on board (arrivals),GRAN CANARIA,2013-01-01,3563
+Passenger,Passengers on board (arrivals),TENERIFE SUR/REINA SOFIA,2013-01-01,4018
+Passenger,Passengers on board (arrivals),BARCELONA/EL PRAT,2013-01-01,3480
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2013-01-01,3711
+Passenger,Passengers on board (arrivals),MALAGA/COSTA DEL SOL,2013-01-01,1317
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2013-01-01,1002
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2013-01-01,3343
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2013-01-01,6837
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2013-01-01,7078
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2013-01-01,3625
+Passenger,Passengers on board (arrivals),AGADIR/AL MASSIRA,2013-01-01,2585
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2013-01-01,13073
+Passenger,Passengers on board (arrivals),PORTO,2013-01-01,11194
+Passenger,Passengers on board (arrivals),LISBOA,2013-01-01,7251
+Passenger,Passengers on board (arrivals),ENFIDHA-HAMMAMET INTERNATIONAL,2013-01-01,1994
+Passenger,Passengers on board (arrivals),DJERBA/ZARZIS,2013-01-01,1265
+Passenger,Passengers on board (arrivals),ANTALYA (MIL-CIV),2013-01-01,0
+Passenger,Passengers on board (arrivals),LONDON GATWICK,2013-01-01,5962
+Passenger,Passengers on board (arrivals),LONDON/CITY,2013-01-01,19348
+Passenger,Passengers on board (arrivals),LONDON HEATHROW,2013-01-01,13282
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2012-10-01,7650
+Passenger,Passengers on board (arrivals),GENEVA,2012-10-01,6643
+Passenger,Passengers on board (arrivals),ZURICH,2012-10-01,14744
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2012-10-01,13718
+Passenger,Passengers on board (arrivals),MUENCHEN,2012-10-01,19129
+Passenger,Passengers on board (arrivals),SAARBRUECKEN,2012-10-01,5128
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2012-10-01,7675
+Passenger,Passengers on board (arrivals),FUERTEVENTURA,2012-10-01,2502
+Passenger,Passengers on board (arrivals),GRAN CANARIA,2012-10-01,3460
+Passenger,Passengers on board (arrivals),TENERIFE SUR/REINA SOFIA,2012-10-01,2749
+Passenger,Passengers on board (arrivals),BARCELONA/EL PRAT,2012-10-01,3320
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2012-10-01,3997
+Passenger,Passengers on board (arrivals),MALAGA/COSTA DEL SOL,2012-10-01,1981
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2012-10-01,2636
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2012-10-01,3229
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2012-10-01,6878
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2012-10-01,5984
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2012-10-01,4419
+Passenger,Passengers on board (arrivals),AGADIR/AL MASSIRA,2012-10-01,2489
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2012-10-01,15431
+Passenger,Passengers on board (arrivals),PORTO,2012-10-01,11344
+Passenger,Passengers on board (arrivals),LISBOA,2012-10-01,6382
+Passenger,Passengers on board (arrivals),ENFIDHA-HAMMAMET INTERNATIONAL,2012-10-01,2682
+Passenger,Passengers on board (arrivals),DJERBA/ZARZIS,2012-10-01,3014
+Passenger,Passengers on board (arrivals),ANTALYA (MIL-CIV),2012-10-01,2429
+Passenger,Passengers on board (arrivals),LONDON/CITY,2012-10-01,20665
+Passenger,Passengers on board (arrivals),LONDON HEATHROW,2012-10-01,13536
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2012-07-01,7026
+Passenger,Passengers on board (arrivals),GENEVA,2012-07-01,5351
+Passenger,Passengers on board (arrivals),ZURICH,2012-07-01,14986
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2012-07-01,15174
+Passenger,Passengers on board (arrivals),MUENCHEN,2012-07-01,17619
+Passenger,Passengers on board (arrivals),SAARBRUECKEN,2012-07-01,5793
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2012-07-01,5491
+Passenger,Passengers on board (arrivals),FUERTEVENTURA,2012-07-01,3342
+Passenger,Passengers on board (arrivals),GRAN CANARIA,2012-07-01,3126
+Passenger,Passengers on board (arrivals),TENERIFE SUR/REINA SOFIA,2012-07-01,4216
+Passenger,Passengers on board (arrivals),BARCELONA/EL PRAT,2012-07-01,4626
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2012-07-01,3664
+Passenger,Passengers on board (arrivals),MALAGA/COSTA DEL SOL,2012-07-01,3433
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2012-07-01,19591
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2012-07-01,5276
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2012-07-01,7105
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2012-07-01,4293
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2012-07-01,6307
+Passenger,Passengers on board (arrivals),AGADIR/AL MASSIRA,2012-07-01,3363
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2012-07-01,15613
+Passenger,Passengers on board (arrivals),PORTO,2012-07-01,16765
+Passenger,Passengers on board (arrivals),LISBOA,2012-07-01,7579
+Passenger,Passengers on board (arrivals),ENFIDHA-HAMMAMET INTERNATIONAL,2012-07-01,6910
+Passenger,Passengers on board (arrivals),DJERBA/ZARZIS,2012-07-01,12356
+Passenger,Passengers on board (arrivals),ANTALYA (MIL-CIV),2012-07-01,9387
+Passenger,Passengers on board (arrivals),LONDON/CITY,2012-07-01,18998
+Passenger,Passengers on board (arrivals),LONDON HEATHROW,2012-07-01,13529
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2012-04-01,8398
+Passenger,Passengers on board (arrivals),GENEVA,2012-04-01,7754
+Passenger,Passengers on board (arrivals),ZURICH,2012-04-01,16567
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2012-04-01,15104
+Passenger,Passengers on board (arrivals),MUENCHEN,2012-04-01,19403
+Passenger,Passengers on board (arrivals),SAARBRUECKEN,2012-04-01,5385
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2012-04-01,7995
+Passenger,Passengers on board (arrivals),FUERTEVENTURA,2012-04-01,3102
+Passenger,Passengers on board (arrivals),GRAN CANARIA,2012-04-01,3375
+Passenger,Passengers on board (arrivals),TENERIFE SUR/REINA SOFIA,2012-04-01,2435
+Passenger,Passengers on board (arrivals),BARCELONA/EL PRAT,2012-04-01,3938
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2012-04-01,4117
+Passenger,Passengers on board (arrivals),MALAGA/COSTA DEL SOL,2012-04-01,3979
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2012-04-01,10106
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2012-04-01,4754
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2012-04-01,7379
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2012-04-01,4232
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2012-04-01,6038
+Passenger,Passengers on board (arrivals),AGADIR/AL MASSIRA,2012-04-01,3235
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2012-04-01,14597
+Passenger,Passengers on board (arrivals),PORTO,2012-04-01,11361
+Passenger,Passengers on board (arrivals),LISBOA,2012-04-01,5817
+Passenger,Passengers on board (arrivals),ENFIDHA-HAMMAMET INTERNATIONAL,2012-04-01,3454
+Passenger,Passengers on board (arrivals),DJERBA/ZARZIS,2012-04-01,5207
+Passenger,Passengers on board (arrivals),ANTALYA (MIL-CIV),2012-04-01,2828
+Passenger,Passengers on board (arrivals),LONDON/CITY,2012-04-01,21271
+Passenger,Passengers on board (arrivals),LONDON HEATHROW,2012-04-01,13168
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2012-01-01,6291
+Passenger,Passengers on board (arrivals),GENEVA,2012-01-01,6293
+Passenger,Passengers on board (arrivals),ZURICH,2012-01-01,15030
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2012-01-01,12515
+Passenger,Passengers on board (arrivals),MUENCHEN,2012-01-01,14782
+Passenger,Passengers on board (arrivals),SAARBRUECKEN,2012-01-01,4309
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2012-01-01,5895
+Passenger,Passengers on board (arrivals),FUERTEVENTURA,2012-01-01,2363
+Passenger,Passengers on board (arrivals),GRAN CANARIA,2012-01-01,3371
+Passenger,Passengers on board (arrivals),TENERIFE SUR/REINA SOFIA,2012-01-01,3480
+Passenger,Passengers on board (arrivals),BARCELONA/EL PRAT,2012-01-01,2478
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2012-01-01,3893
+Passenger,Passengers on board (arrivals),MALAGA/COSTA DEL SOL,2012-01-01,1587
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2012-01-01,645
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2012-01-01,2929
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2012-01-01,6917
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2012-01-01,3983
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2012-01-01,3269
+Passenger,Passengers on board (arrivals),AGADIR/AL MASSIRA,2012-01-01,2237
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2012-01-01,12709
+Passenger,Passengers on board (arrivals),PORTO,2012-01-01,12669
+Passenger,Passengers on board (arrivals),LISBOA,2012-01-01,3677
+Passenger,Passengers on board (arrivals),ENFIDHA-HAMMAMET INTERNATIONAL,2012-01-01,1257
+Passenger,Passengers on board (arrivals),DJERBA/ZARZIS,2012-01-01,1825
+Passenger,Passengers on board (arrivals),ANTALYA (MIL-CIV),2012-01-01,1024
+Passenger,Passengers on board (arrivals),LONDON/CITY,2012-01-01,19013
+Passenger,Passengers on board (arrivals),LONDON HEATHROW,2012-01-01,11126
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2011-10-01,7182
+Passenger,Passengers on board (arrivals),GENEVA,2011-10-01,4207
+Passenger,Passengers on board (arrivals),ZURICH,2011-10-01,15676
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2011-10-01,14726
+Passenger,Passengers on board (arrivals),MUENCHEN,2011-10-01,15909
+Passenger,Passengers on board (arrivals),SAARBRUECKEN,2011-10-01,5054
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2011-10-01,7002
+Passenger,Passengers on board (arrivals),IRAKLION/NIKOS KAZANTZAKIS,2011-10-01,927
+Passenger,Passengers on board (arrivals),FUERTEVENTURA,2011-10-01,2439
+Passenger,Passengers on board (arrivals),GRAN CANARIA,2011-10-01,3431
+Passenger,Passengers on board (arrivals),TENERIFE SUR/REINA SOFIA,2011-10-01,3573
+Passenger,Passengers on board (arrivals),BARCELONA/EL PRAT,2011-10-01,2788
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2011-10-01,3685
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2011-10-01,2861
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2011-10-01,3080
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2011-10-01,7517
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2011-10-01,4025
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2011-10-01,4506
+Passenger,Passengers on board (arrivals),AGADIR/AL MASSIRA,2011-10-01,2286
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2011-10-01,13436
+Passenger,Passengers on board (arrivals),PORTO,2011-10-01,12866
+Passenger,Passengers on board (arrivals),LISBOA,2011-10-01,3753
+Passenger,Passengers on board (arrivals),ENFIDHA ZINE EL ABIDINE BEN ALI,2011-10-01,2676
+Passenger,Passengers on board (arrivals),DJERBA/ZARZIS,2011-10-01,3110
+Passenger,Passengers on board (arrivals),ANTALYA (MIL-CIV),2011-10-01,2901
+Passenger,Passengers on board (arrivals),LONDON/CITY,2011-10-01,19490
+Passenger,Passengers on board (arrivals),LONDON HEATHROW,2011-10-01,13874
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2011-07-01,6753
+Passenger,Passengers on board (arrivals),GENEVA,2011-07-01,3622
+Passenger,Passengers on board (arrivals),ZURICH,2011-07-01,14759
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2011-07-01,15174
+Passenger,Passengers on board (arrivals),MUENCHEN,2011-07-01,13879
+Passenger,Passengers on board (arrivals),SAARBRUECKEN,2011-07-01,5275
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2011-07-01,6693
+Passenger,Passengers on board (arrivals),IRAKLION/NIKOS KAZANTZAKIS,2011-07-01,5509
+Passenger,Passengers on board (arrivals),FUERTEVENTURA,2011-07-01,3166
+Passenger,Passengers on board (arrivals),GRAN CANARIA,2011-07-01,3283
+Passenger,Passengers on board (arrivals),TENERIFE SUR/REINA SOFIA,2011-07-01,4215
+Passenger,Passengers on board (arrivals),BARCELONA/EL PRAT,2011-07-01,4322
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2011-07-01,3486
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2011-07-01,17522
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2011-07-01,5029
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2011-07-01,7214
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2011-07-01,3453
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2011-07-01,5818
+Passenger,Passengers on board (arrivals),AGADIR/AL MASSIRA,2011-07-01,3262
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2011-07-01,13814
+Passenger,Passengers on board (arrivals),PORTO,2011-07-01,16358
+Passenger,Passengers on board (arrivals),LISBOA,2011-07-01,5199
+Passenger,Passengers on board (arrivals),ENFIDHA ZINE EL ABIDINE BEN ALI,2011-07-01,4184
+Passenger,Passengers on board (arrivals),DJERBA/ZARZIS,2011-07-01,6275
+Passenger,Passengers on board (arrivals),ANTALYA (MIL-CIV),2011-07-01,10196
+Passenger,Passengers on board (arrivals),LONDON/CITY,2011-07-01,18694
+Passenger,Passengers on board (arrivals),LONDON HEATHROW,2011-07-01,13561
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2011-04-01,7800
+Passenger,Passengers on board (arrivals),GENEVA,2011-04-01,4355
+Passenger,Passengers on board (arrivals),ZURICH,2011-04-01,16592
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2011-04-01,14373
+Passenger,Passengers on board (arrivals),MUENCHEN,2011-04-01,14791
+Passenger,Passengers on board (arrivals),SAARBRUECKEN,2011-04-01,5605
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2011-04-01,8103
+Passenger,Passengers on board (arrivals),IRAKLION/NIKOS KAZANTZAKIS,2011-04-01,2648
+Passenger,Passengers on board (arrivals),FUERTEVENTURA,2011-04-01,2688
+Passenger,Passengers on board (arrivals),GRAN CANARIA,2011-04-01,3557
+Passenger,Passengers on board (arrivals),TENERIFE SUR/REINA SOFIA,2011-04-01,4244
+Passenger,Passengers on board (arrivals),BARCELONA/EL PRAT,2011-04-01,3658
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2011-04-01,3865
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2011-04-01,8843
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2011-04-01,4157
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2011-04-01,8169
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2011-04-01,3998
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2011-04-01,5951
+Passenger,Passengers on board (arrivals),AGADIR/AL MASSIRA,2011-04-01,2655
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2011-04-01,14235
+Passenger,Passengers on board (arrivals),PORTO,2011-04-01,12732
+Passenger,Passengers on board (arrivals),LISBOA,2011-04-01,3773
+Passenger,Passengers on board (arrivals),ENFIDHA ZINE EL ABIDINE BEN ALI,2011-04-01,3434
+Passenger,Passengers on board (arrivals),DJERBA/ZARZIS,2011-04-01,2336
+Passenger,Passengers on board (arrivals),ANTALYA (MIL-CIV),2011-04-01,3773
+Passenger,Passengers on board (arrivals),LONDON/CITY,2011-04-01,19806
+Passenger,Passengers on board (arrivals),LONDON HEATHROW,2011-04-01,12295
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2011-01-01,6741
+Passenger,Passengers on board (arrivals),GENEVA,2011-01-01,4327
+Passenger,Passengers on board (arrivals),ZURICH,2011-01-01,15003
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2011-01-01,14561
+Passenger,Passengers on board (arrivals),MUENCHEN,2011-01-01,8908
+Passenger,Passengers on board (arrivals),SAARBRUECKEN,2011-01-01,6828
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2011-01-01,7206
+Passenger,Passengers on board (arrivals),IRAKLION/NIKOS KAZANTZAKIS,2011-01-01,1247
+Passenger,Passengers on board (arrivals),FUERTEVENTURA,2011-01-01,2151
+Passenger,Passengers on board (arrivals),GRAN CANARIA,2011-01-01,4124
+Passenger,Passengers on board (arrivals),TENERIFE SUR/REINA SOFIA,2011-01-01,4475
+Passenger,Passengers on board (arrivals),BARCELONA/EL PRAT,2011-01-01,2976
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2011-01-01,3809
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2011-01-01,4583
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2011-01-01,3328
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2011-01-01,8010
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2011-01-01,3726
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2011-01-01,4037
+Passenger,Passengers on board (arrivals),AGADIR/AL MASSIRA,2011-01-01,3255
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2011-01-01,13170
+Passenger,Passengers on board (arrivals),PORTO,2011-01-01,14893
+Passenger,Passengers on board (arrivals),LISBOA,2011-01-01,3726
+Passenger,Passengers on board (arrivals),ENFIDHA ZINE EL ABIDINE BEN ALI,2011-01-01,399
+Passenger,Passengers on board (arrivals),DJERBA/ZARZIS,2011-01-01,4371
+Passenger,Passengers on board (arrivals),ANTALYA (MIL-CIV),2011-01-01,2129
+Passenger,Passengers on board (arrivals),LONDON/CITY,2011-01-01,19259
+Passenger,Passengers on board (arrivals),LONDON HEATHROW,2011-01-01,637
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2010-10-01,7047
+Passenger,Passengers on board (arrivals),GENEVA,2010-10-01,3635
+Passenger,Passengers on board (arrivals),ZURICH,2010-10-01,14418
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2010-10-01,14273
+Passenger,Passengers on board (arrivals),MUENCHEN,2010-10-01,8978
+Passenger,Passengers on board (arrivals),SAARBRUECKEN,2010-10-01,6880
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2010-10-01,7595
+Passenger,Passengers on board (arrivals),GRAN CANARIA,2010-10-01,3296
+Passenger,Passengers on board (arrivals),TENERIFE SUR/REINA SOFIA,2010-10-01,2693
+Passenger,Passengers on board (arrivals),BARCELONA/EL PRAT,2010-10-01,2719
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2010-10-01,3558
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2010-10-01,2474
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2010-10-01,2784
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2010-10-01,7267
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2010-10-01,3858
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2010-10-01,4153
+Passenger,Passengers on board (arrivals),AGADIR/AL MASSIRA,2010-10-01,3040
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2010-10-01,12317
+Passenger,Passengers on board (arrivals),PORTO,2010-10-01,13233
+Passenger,Passengers on board (arrivals),LISBOA,2010-10-01,3140
+Passenger,Passengers on board (arrivals),MONASTIR/HABIB BOURGUIBA,2010-10-01,3109
+Passenger,Passengers on board (arrivals),DJERBA/ZARZIS,2010-10-01,5129
+Passenger,Passengers on board (arrivals),ANTALYA (MIL-CIV),2010-10-01,2454
+Passenger,Passengers on board (arrivals),LONDON GATWICK,2010-10-01,8375
+Passenger,Passengers on board (arrivals),LONDON/CITY,2010-10-01,19075
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2010-07-01,6816
+Passenger,Passengers on board (arrivals),GENEVA,2010-07-01,3255
+Passenger,Passengers on board (arrivals),ZURICH,2010-07-01,13013
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2010-07-01,14529
+Passenger,Passengers on board (arrivals),MUENCHEN,2010-07-01,815
+Passenger,Passengers on board (arrivals),SAARBRUECKEN,2010-07-01,11611
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2010-07-01,6767
+Passenger,Passengers on board (arrivals),GRAN CANARIA,2010-07-01,3287
+Passenger,Passengers on board (arrivals),TENERIFE SUR/REINA SOFIA,2010-07-01,4162
+Passenger,Passengers on board (arrivals),BARCELONA/EL PRAT,2010-07-01,4486
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2010-07-01,3322
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2010-07-01,13970
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2010-07-01,4641
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2010-07-01,7819
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2010-07-01,3476
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2010-07-01,4700
+Passenger,Passengers on board (arrivals),AGADIR/AL MASSIRA,2010-07-01,3361
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2010-07-01,13068
+Passenger,Passengers on board (arrivals),PORTO,2010-07-01,16377
+Passenger,Passengers on board (arrivals),LISBOA,2010-07-01,3690
+Passenger,Passengers on board (arrivals),MONASTIR/HABIB BOURGUIBA,2010-07-01,9464
+Passenger,Passengers on board (arrivals),DJERBA/ZARZIS,2010-07-01,13065
+Passenger,Passengers on board (arrivals),ANTALYA (MIL-CIV),2010-07-01,7379
+Passenger,Passengers on board (arrivals),LONDON GATWICK,2010-07-01,8359
+Passenger,Passengers on board (arrivals),LONDON/CITY,2010-07-01,18169
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2010-04-01,7225
+Passenger,Passengers on board (arrivals),GENEVA,2010-04-01,3663
+Passenger,Passengers on board (arrivals),ZURICH,2010-04-01,13214
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2010-04-01,13209
+Passenger,Passengers on board (arrivals),MUENCHEN,2010-04-01,1044
+Passenger,Passengers on board (arrivals),SAARBRUECKEN,2010-04-01,10384
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2010-04-01,7658
+Passenger,Passengers on board (arrivals),GRAN CANARIA,2010-04-01,2809
+Passenger,Passengers on board (arrivals),TENERIFE SUR/REINA SOFIA,2010-04-01,3439
+Passenger,Passengers on board (arrivals),BARCELONA/EL PRAT,2010-04-01,3696
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2010-04-01,4266
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2010-04-01,6654
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2010-04-01,3839
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2010-04-01,7091
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2010-04-01,3812
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2010-04-01,4246
+Passenger,Passengers on board (arrivals),AGADIR/AL MASSIRA,2010-04-01,3956
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2010-04-01,11549
+Passenger,Passengers on board (arrivals),PORTO,2010-04-01,10792
+Passenger,Passengers on board (arrivals),LISBOA,2010-04-01,3372
+Passenger,Passengers on board (arrivals),MONASTIR/HABIB BOURGUIBA,2010-04-01,4486
+Passenger,Passengers on board (arrivals),DJERBA/ZARZIS,2010-04-01,6913
+Passenger,Passengers on board (arrivals),ANTALYA (MIL-CIV),2010-04-01,2984
+Passenger,Passengers on board (arrivals),LONDON GATWICK,2010-04-01,8020
+Passenger,Passengers on board (arrivals),LONDON/CITY,2010-04-01,17694
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2010-01-01,6198
+Passenger,Passengers on board (arrivals),GENEVA,2010-01-01,3841
+Passenger,Passengers on board (arrivals),ZURICH,2010-01-01,12369
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2010-01-01,11901
+Passenger,Passengers on board (arrivals),MUENCHEN,2010-01-01,1399
+Passenger,Passengers on board (arrivals),SAARBRUECKEN,2010-01-01,12280
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2010-01-01,6287
+Passenger,Passengers on board (arrivals),GRAN CANARIA,2010-01-01,2412
+Passenger,Passengers on board (arrivals),TENERIFE SUR/REINA SOFIA,2010-01-01,2756
+Passenger,Passengers on board (arrivals),BARCELONA/EL PRAT,2010-01-01,2702
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2010-01-01,3705
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2010-01-01,401
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2010-01-01,2676
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2010-01-01,6444
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2010-01-01,3713
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2010-01-01,2894
+Passenger,Passengers on board (arrivals),AGADIR/AL MASSIRA,2010-01-01,2015
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2010-01-01,9428
+Passenger,Passengers on board (arrivals),PORTO,2010-01-01,12050
+Passenger,Passengers on board (arrivals),LISBOA,2010-01-01,397
+Passenger,Passengers on board (arrivals),MONASTIR/HABIB BOURGUIBA,2010-01-01,2266
+Passenger,Passengers on board (arrivals),DJERBA/ZARZIS,2010-01-01,1819
+Passenger,Passengers on board (arrivals),ANTALYA (MIL-CIV),2010-01-01,6
+Passenger,Passengers on board (arrivals),LONDON GATWICK,2010-01-01,6569
+Passenger,Passengers on board (arrivals),LONDON/CITY,2010-01-01,16955
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2009-10-01,7355
+Passenger,Passengers on board (arrivals),GENEVA,2009-10-01,3862
+Passenger,Passengers on board (arrivals),ZURICH,2009-10-01,14822
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2009-10-01,12463
+Passenger,Passengers on board (arrivals),SAARBRUECKEN,2009-10-01,9196
+Passenger,Passengers on board (arrivals),BERLIN-TEGEL,2009-10-01,3098
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2009-10-01,6959
+Passenger,Passengers on board (arrivals),HURGHADA / INTL,2009-10-01,3196
+Passenger,Passengers on board (arrivals),GRAN CANARIA,2009-10-01,3192
+Passenger,Passengers on board (arrivals),TENERIFE SUR/REINA SOFIA,2009-10-01,2845
+Passenger,Passengers on board (arrivals),BARCELONA/EL PRAT,2009-10-01,3392
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2009-10-01,4111
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2009-10-01,1934
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2009-10-01,2944
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2009-10-01,7560
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2009-10-01,3879
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2009-10-01,3411
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2009-10-01,8943
+Passenger,Passengers on board (arrivals),PORTO,2009-10-01,12546
+Passenger,Passengers on board (arrivals),LISBOA,2009-10-01,1382
+Passenger,Passengers on board (arrivals),MONASTIR/HABIB BOURGUIBA,2009-10-01,4728
+Passenger,Passengers on board (arrivals),DJERBA/ZARZIS,2009-10-01,4851
+Passenger,Passengers on board (arrivals),LONDON GATWICK,2009-10-01,8755
+Passenger,Passengers on board (arrivals),LONDON/CITY,2009-10-01,18559
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2009-07-01,6464
+Passenger,Passengers on board (arrivals),GENEVA,2009-07-01,3195
+Passenger,Passengers on board (arrivals),ZURICH,2009-07-01,12749
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2009-07-01,15366
+Passenger,Passengers on board (arrivals),SAARBRUECKEN,2009-07-01,8446
+Passenger,Passengers on board (arrivals),BERLIN-TEGEL,2009-07-01,2986
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2009-07-01,6481
+Passenger,Passengers on board (arrivals),HURGHADA / INTL,2009-07-01,3058
+Passenger,Passengers on board (arrivals),GRAN CANARIA,2009-07-01,3314
+Passenger,Passengers on board (arrivals),TENERIFE SUR/REINA SOFIA,2009-07-01,3542
+Passenger,Passengers on board (arrivals),BARCELONA/EL PRAT,2009-07-01,4291
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2009-07-01,3678
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2009-07-01,13576
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2009-07-01,4867
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2009-07-01,6764
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2009-07-01,3345
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2009-07-01,3959
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2009-07-01,9987
+Passenger,Passengers on board (arrivals),PORTO,2009-07-01,13895
+Passenger,Passengers on board (arrivals),LISBOA,2009-07-01,4243
+Passenger,Passengers on board (arrivals),MONASTIR/HABIB BOURGUIBA,2009-07-01,8583
+Passenger,Passengers on board (arrivals),DJERBA/ZARZIS,2009-07-01,13114
+Passenger,Passengers on board (arrivals),LONDON GATWICK,2009-07-01,8617
+Passenger,Passengers on board (arrivals),LONDON/CITY,2009-07-01,14895
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2009-04-01,7400
+Passenger,Passengers on board (arrivals),GENEVA,2009-04-01,3852
+Passenger,Passengers on board (arrivals),ZURICH,2009-04-01,13009
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2009-04-01,15599
+Passenger,Passengers on board (arrivals),SAARBRUECKEN,2009-04-01,8795
+Passenger,Passengers on board (arrivals),BERLIN-TEGEL,2009-04-01,3158
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2009-04-01,7553
+Passenger,Passengers on board (arrivals),HURGHADA / INTL,2009-04-01,3455
+Passenger,Passengers on board (arrivals),GRAN CANARIA,2009-04-01,3230
+Passenger,Passengers on board (arrivals),TENERIFE SUR/REINA SOFIA,2009-04-01,2853
+Passenger,Passengers on board (arrivals),BARCELONA/EL PRAT,2009-04-01,3856
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2009-04-01,4666
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2009-04-01,6723
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2009-04-01,3968
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2009-04-01,7144
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2009-04-01,3815
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2009-04-01,3548
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2009-04-01,9302
+Passenger,Passengers on board (arrivals),PORTO,2009-04-01,12360
+Passenger,Passengers on board (arrivals),LISBOA,2009-04-01,3279
+Passenger,Passengers on board (arrivals),MONASTIR/HABIB BOURGUIBA,2009-04-01,5646
+Passenger,Passengers on board (arrivals),DJERBA/ZARZIS,2009-04-01,8676
+Passenger,Passengers on board (arrivals),LONDON GATWICK,2009-04-01,9628
+Passenger,Passengers on board (arrivals),LONDON/CITY,2009-04-01,16025
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2009-01-01,6194
+Passenger,Passengers on board (arrivals),GENEVA,2009-01-01,3975
+Passenger,Passengers on board (arrivals),ZURICH,2009-01-01,9736
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2009-01-01,14299
+Passenger,Passengers on board (arrivals),SAARBRUECKEN,2009-01-01,7419
+Passenger,Passengers on board (arrivals),BERLIN-TEGEL,2009-01-01,3051
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2009-01-01,5821
+Passenger,Passengers on board (arrivals),HURGHADA / INTL,2009-01-01,3142
+Passenger,Passengers on board (arrivals),GRAN CANARIA,2009-01-01,4201
+Passenger,Passengers on board (arrivals),TENERIFE SUR/REINA SOFIA,2009-01-01,2558
+Passenger,Passengers on board (arrivals),BARCELONA/EL PRAT,2009-01-01,2468
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2009-01-01,3859
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2009-01-01,696
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2009-01-01,2604
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2009-01-01,7551
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2009-01-01,3919
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2009-01-01,2847
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2009-01-01,7528
+Passenger,Passengers on board (arrivals),PORTO,2009-01-01,9896
+Passenger,Passengers on board (arrivals),LISBOA,2009-01-01,2324
+Passenger,Passengers on board (arrivals),MONASTIR/HABIB BOURGUIBA,2009-01-01,2661
+Passenger,Passengers on board (arrivals),DJERBA/ZARZIS,2009-01-01,2608
+Passenger,Passengers on board (arrivals),LONDON GATWICK,2009-01-01,7416
+Passenger,Passengers on board (arrivals),LONDON/CITY,2009-01-01,14978
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2008-10-01,7575
+Passenger,Passengers on board (arrivals),GENEVA,2008-10-01,4110
+Passenger,Passengers on board (arrivals),ZURICH,2008-10-01,11007
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2008-10-01,15423
+Passenger,Passengers on board (arrivals),SAARBRUECKEN,2008-10-01,8245
+Passenger,Passengers on board (arrivals),BERLIN-TEGEL,2008-10-01,3847
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2008-10-01,7650
+Passenger,Passengers on board (arrivals),HURGHADA / INTL,2008-10-01,2004
+Passenger,Passengers on board (arrivals),IRAKLION/NIKOS KAZANTZAKIS,2008-10-01,1811
+Passenger,Passengers on board (arrivals),GRAN CANARIA,2008-10-01,4569
+Passenger,Passengers on board (arrivals),TENERIFE SUR/REINA SOFIA,2008-10-01,3509
+Passenger,Passengers on board (arrivals),BARCELONA/EL PRAT,2008-10-01,2834
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2008-10-01,4321
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2008-10-01,3972
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2008-10-01,3063
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2008-10-01,9411
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2008-10-01,4797
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2008-10-01,3160
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2008-10-01,9073
+Passenger,Passengers on board (arrivals),PORTO,2008-10-01,9145
+Passenger,Passengers on board (arrivals),LISBOA,2008-10-01,2869
+Passenger,Passengers on board (arrivals),MONASTIR/HABIB BOURGUIBA,2008-10-01,3698
+Passenger,Passengers on board (arrivals),DJERBA/ZARZIS,2008-10-01,5768
+Passenger,Passengers on board (arrivals),LONDON GATWICK,2008-10-01,7297
+Passenger,Passengers on board (arrivals),LONDON/CITY,2008-10-01,16691
+Passenger,Passengers on board (arrivals),LONDON HEATHROW,2008-10-01,1183
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2008-07-01,7774
+Passenger,Passengers on board (arrivals),GENEVA,2008-07-01,3745
+Passenger,Passengers on board (arrivals),ZURICH,2008-07-01,12253
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2008-07-01,17415
+Passenger,Passengers on board (arrivals),SAARBRUECKEN,2008-07-01,8116
+Passenger,Passengers on board (arrivals),BERLIN-TEGEL,2008-07-01,3887
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2008-07-01,8437
+Passenger,Passengers on board (arrivals),HURGHADA / INTL,2008-07-01,3136
+Passenger,Passengers on board (arrivals),IRAKLION/NIKOS KAZANTZAKIS,2008-07-01,7582
+Passenger,Passengers on board (arrivals),GRAN CANARIA,2008-07-01,5055
+Passenger,Passengers on board (arrivals),TENERIFE SUR/REINA SOFIA,2008-07-01,4906
+Passenger,Passengers on board (arrivals),BARCELONA/EL PRAT,2008-07-01,3950
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2008-07-01,3984
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2008-07-01,16983
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2008-07-01,4820
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2008-07-01,9248
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2008-07-01,4270
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2008-07-01,3776
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2008-07-01,10305
+Passenger,Passengers on board (arrivals),PORTO,2008-07-01,11502
+Passenger,Passengers on board (arrivals),LISBOA,2008-07-01,4359
+Passenger,Passengers on board (arrivals),MONASTIR/HABIB BOURGUIBA,2008-07-01,8837
+Passenger,Passengers on board (arrivals),DJERBA/ZARZIS,2008-07-01,12781
+Passenger,Passengers on board (arrivals),LONDON GATWICK,2008-07-01,7175
+Passenger,Passengers on board (arrivals),LONDON/CITY,2008-07-01,14389
+Passenger,Passengers on board (arrivals),LONDON HEATHROW,2008-07-01,5059
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2008-04-01,8461
+Passenger,Passengers on board (arrivals),GENEVA,2008-04-01,4823
+Passenger,Passengers on board (arrivals),ZURICH,2008-04-01,11528
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2008-04-01,18021
+Passenger,Passengers on board (arrivals),SAARBRUECKEN,2008-04-01,7938
+Passenger,Passengers on board (arrivals),BERLIN-TEGEL,2008-04-01,4172
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2008-04-01,12103
+Passenger,Passengers on board (arrivals),HURGHADA / INTL,2008-04-01,3393
+Passenger,Passengers on board (arrivals),IRAKLION/NIKOS KAZANTZAKIS,2008-04-01,3231
+Passenger,Passengers on board (arrivals),GRAN CANARIA,2008-04-01,4657
+Passenger,Passengers on board (arrivals),TENERIFE SUR/REINA SOFIA,2008-04-01,3812
+Passenger,Passengers on board (arrivals),BARCELONA/EL PRAT,2008-04-01,3503
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2008-04-01,4828
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2008-04-01,8648
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2008-04-01,4459
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2008-04-01,10739
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2008-04-01,6012
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2008-04-01,3822
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2008-04-01,10417
+Passenger,Passengers on board (arrivals),PORTO,2008-04-01,9574
+Passenger,Passengers on board (arrivals),LISBOA,2008-04-01,3289
+Passenger,Passengers on board (arrivals),MONASTIR/HABIB BOURGUIBA,2008-04-01,5599
+Passenger,Passengers on board (arrivals),DJERBA/ZARZIS,2008-04-01,8603
+Passenger,Passengers on board (arrivals),LONDON GATWICK,2008-04-01,7717
+Passenger,Passengers on board (arrivals),LONDON/CITY,2008-04-01,16802
+Passenger,Passengers on board (arrivals),LONDON HEATHROW,2008-04-01,4905
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2008-01-01,6247
+Passenger,Passengers on board (arrivals),GENEVA,2008-01-01,4440
+Passenger,Passengers on board (arrivals),ZURICH,2008-01-01,10262
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2008-01-01,16028
+Passenger,Passengers on board (arrivals),SAARBRUECKEN,2008-01-01,5722
+Passenger,Passengers on board (arrivals),BERLIN-TEGEL,2008-01-01,3285
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2008-01-01,10067
+Passenger,Passengers on board (arrivals),HURGHADA / INTL,2008-01-01,2547
+Passenger,Passengers on board (arrivals),GRAN CANARIA,2008-01-01,4785
+Passenger,Passengers on board (arrivals),TENERIFE SUR/REINA SOFIA,2008-01-01,3476
+Passenger,Passengers on board (arrivals),BARCELONA/EL PRAT,2008-01-01,2716
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2008-01-01,4424
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2008-01-01,1214
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2008-01-01,3252
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2008-01-01,10217
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2008-01-01,5699
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2008-01-01,2909
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2008-01-01,8026
+Passenger,Passengers on board (arrivals),PORTO,2008-01-01,11647
+Passenger,Passengers on board (arrivals),LISBOA,2008-01-01,2588
+Passenger,Passengers on board (arrivals),MONASTIR/HABIB BOURGUIBA,2008-01-01,3423
+Passenger,Passengers on board (arrivals),DJERBA/ZARZIS,2008-01-01,3119
+Passenger,Passengers on board (arrivals),LONDON GATWICK,2008-01-01,6294
+Passenger,Passengers on board (arrivals),LONDON/CITY,2008-01-01,15003
+Passenger,Passengers on board (arrivals),LONDON HEATHROW,2008-01-01,4493
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2007-10-01,7445
+Passenger,Passengers on board (arrivals),GENEVA,2007-10-01,4514
+Passenger,Passengers on board (arrivals),ZURICH,2007-10-01,10658
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2007-10-01,17032
+Passenger,Passengers on board (arrivals),SAARBRUECKEN,2007-10-01,5386
+Passenger,Passengers on board (arrivals),BERLIN-TEGEL,2007-10-01,4328
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2007-10-01,9549
+Passenger,Passengers on board (arrivals),IRAKLION/NIKOS KAZANTZAKIS,2007-10-01,1790
+Passenger,Passengers on board (arrivals),GRAN CANARIA,2007-10-01,4466
+Passenger,Passengers on board (arrivals),TENERIFE SUR/REINA SOFIA,2007-10-01,3171
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2007-10-01,4438
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2007-10-01,4177
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2007-10-01,3234
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2007-10-01,11771
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2007-10-01,6955
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2007-10-01,3069
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2007-10-01,9649
+Passenger,Passengers on board (arrivals),PORTO,2007-10-01,8826
+Passenger,Passengers on board (arrivals),LISBOA,2007-10-01,3496
+Passenger,Passengers on board (arrivals),MONASTIR/HABIB BOURGUIBA,2007-10-01,3919
+Passenger,Passengers on board (arrivals),DJERBA/ZARZIS,2007-10-01,5142
+Passenger,Passengers on board (arrivals),LONDON GATWICK,2007-10-01,6806
+Passenger,Passengers on board (arrivals),LONDON/CITY,2007-10-01,16686
+Passenger,Passengers on board (arrivals),LONDON HEATHROW,2007-10-01,5256
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2007-07-01,5986
+Passenger,Passengers on board (arrivals),GENEVA,2007-07-01,3645
+Passenger,Passengers on board (arrivals),ZURICH,2007-07-01,11211
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2007-07-01,18035
+Passenger,Passengers on board (arrivals),SAARBRUECKEN,2007-07-01,5306
+Passenger,Passengers on board (arrivals),BERLIN-TEGEL,2007-07-01,3880
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2007-07-01,6506
+Passenger,Passengers on board (arrivals),IRAKLION/NIKOS KAZANTZAKIS,2007-07-01,7452
+Passenger,Passengers on board (arrivals),GRAN CANARIA,2007-07-01,5195
+Passenger,Passengers on board (arrivals),TENERIFE SUR/REINA SOFIA,2007-07-01,4918
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2007-07-01,4166
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2007-07-01,18043
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2007-07-01,4058
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2007-07-01,11705
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2007-07-01,5924
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2007-07-01,3209
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2007-07-01,10325
+Passenger,Passengers on board (arrivals),PORTO,2007-07-01,10250
+Passenger,Passengers on board (arrivals),LISBOA,2007-07-01,5295
+Passenger,Passengers on board (arrivals),MONASTIR/HABIB BOURGUIBA,2007-07-01,8576
+Passenger,Passengers on board (arrivals),DJERBA/ZARZIS,2007-07-01,11352
+Passenger,Passengers on board (arrivals),LONDON GATWICK,2007-07-01,7040
+Passenger,Passengers on board (arrivals),LONDON/CITY,2007-07-01,13324
+Passenger,Passengers on board (arrivals),LONDON HEATHROW,2007-07-01,5078
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2007-04-01,6280
+Passenger,Passengers on board (arrivals),GENEVA,2007-04-01,4160
+Passenger,Passengers on board (arrivals),ZURICH,2007-04-01,10863
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2007-04-01,16801
+Passenger,Passengers on board (arrivals),SAARBRUECKEN,2007-04-01,4844
+Passenger,Passengers on board (arrivals),BERLIN-TEGEL,2007-04-01,4131
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2007-04-01,10369
+Passenger,Passengers on board (arrivals),IRAKLION/NIKOS KAZANTZAKIS,2007-04-01,3877
+Passenger,Passengers on board (arrivals),GRAN CANARIA,2007-04-01,4832
+Passenger,Passengers on board (arrivals),TENERIFE SUR/REINA SOFIA,2007-04-01,3645
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2007-04-01,4674
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2007-04-01,9774
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2007-04-01,3556
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2007-04-01,15731
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2007-04-01,6550
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2007-04-01,3258
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2007-04-01,10331
+Passenger,Passengers on board (arrivals),PORTO,2007-04-01,7673
+Passenger,Passengers on board (arrivals),LISBOA,2007-04-01,4723
+Passenger,Passengers on board (arrivals),MONASTIR/HABIB BOURGUIBA,2007-04-01,4779
+Passenger,Passengers on board (arrivals),DJERBA/ZARZIS,2007-04-01,7119
+Passenger,Passengers on board (arrivals),LONDON GATWICK,2007-04-01,6385
+Passenger,Passengers on board (arrivals),LONDON/CITY,2007-04-01,14982
+Passenger,Passengers on board (arrivals),LONDON HEATHROW,2007-04-01,5135
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2007-01-01,6013
+Passenger,Passengers on board (arrivals),GENEVA,2007-01-01,3899
+Passenger,Passengers on board (arrivals),ZURICH,2007-01-01,9047
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2007-01-01,15684
+Passenger,Passengers on board (arrivals),SAARBRUECKEN,2007-01-01,3973
+Passenger,Passengers on board (arrivals),BERLIN-TEGEL,2007-01-01,3128
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2007-01-01,10035
+Passenger,Passengers on board (arrivals),IRAKLION/NIKOS KAZANTZAKIS,2007-01-01,0
+Passenger,Passengers on board (arrivals),GRAN CANARIA,2007-01-01,5001
+Passenger,Passengers on board (arrivals),TENERIFE SUR/REINA SOFIA,2007-01-01,3053
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2007-01-01,4320
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2007-01-01,1087
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2007-01-01,2664
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2007-01-01,17025
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2007-01-01,5915
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2007-01-01,2115
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2007-01-01,7999
+Passenger,Passengers on board (arrivals),PORTO,2007-01-01,8102
+Passenger,Passengers on board (arrivals),LISBOA,2007-01-01,4296
+Passenger,Passengers on board (arrivals),MONASTIR/HABIB BOURGUIBA,2007-01-01,2468
+Passenger,Passengers on board (arrivals),DJERBA/ZARZIS,2007-01-01,2765
+Passenger,Passengers on board (arrivals),LONDON GATWICK,2007-01-01,5412
+Passenger,Passengers on board (arrivals),LONDON/CITY,2007-01-01,13347
+Passenger,Passengers on board (arrivals),LONDON HEATHROW,2007-01-01,4262
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2006-10-01,6855
+Passenger,Passengers on board (arrivals),GENEVA,2006-10-01,3686
+Passenger,Passengers on board (arrivals),ZURICH,2006-10-01,9565
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2006-10-01,17003
+Passenger,Passengers on board (arrivals),SAARBRUECKEN,2006-10-01,4163
+Passenger,Passengers on board (arrivals),BERLIN-TEGEL,2006-10-01,3463
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2006-10-01,11337
+Passenger,Passengers on board (arrivals),IRAKLION/NIKOS KAZANTZAKIS,2006-10-01,2028
+Passenger,Passengers on board (arrivals),GRAN CANARIA,2006-10-01,4975
+Passenger,Passengers on board (arrivals),TENERIFE SUR/REINA SOFIA,2006-10-01,3150
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2006-10-01,4101
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2006-10-01,3807
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2006-10-01,2517
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2006-10-01,17264
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2006-10-01,6381
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2006-10-01,3743
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2006-10-01,8658
+Passenger,Passengers on board (arrivals),PORTO,2006-10-01,7526
+Passenger,Passengers on board (arrivals),LISBOA,2006-10-01,3880
+Passenger,Passengers on board (arrivals),MONASTIR/HABIB BOURGUIBA,2006-10-01,3184
+Passenger,Passengers on board (arrivals),DJERBA/ZARZIS,2006-10-01,4682
+Passenger,Passengers on board (arrivals),LONDON GATWICK,2006-10-01,7524
+Passenger,Passengers on board (arrivals),LONDON/CITY,2006-10-01,13285
+Passenger,Passengers on board (arrivals),LONDON HEATHROW,2006-10-01,4818
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2006-07-01,5842
+Passenger,Passengers on board (arrivals),GENEVA,2006-07-01,3092
+Passenger,Passengers on board (arrivals),ZURICH,2006-07-01,9095
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2006-07-01,15247
+Passenger,Passengers on board (arrivals),SAARBRUECKEN,2006-07-01,4049
+Passenger,Passengers on board (arrivals),BERLIN-TEGEL,2006-07-01,3401
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2006-07-01,9632
+Passenger,Passengers on board (arrivals),IRAKLION/NIKOS KAZANTZAKIS,2006-07-01,7887
+Passenger,Passengers on board (arrivals),GRAN CANARIA,2006-07-01,4885
+Passenger,Passengers on board (arrivals),TENERIFE SUR/REINA SOFIA,2006-07-01,4955
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2006-07-01,4023
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2006-07-01,18906
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2006-07-01,3869
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2006-07-01,14649
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2006-07-01,5191
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2006-07-01,5095
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2006-07-01,8715
+Passenger,Passengers on board (arrivals),PORTO,2006-07-01,13537
+Passenger,Passengers on board (arrivals),LISBOA,2006-07-01,5360
+Passenger,Passengers on board (arrivals),MONASTIR/HABIB BOURGUIBA,2006-07-01,6458
+Passenger,Passengers on board (arrivals),DJERBA/ZARZIS,2006-07-01,8974
+Passenger,Passengers on board (arrivals),LONDON GATWICK,2006-07-01,6616
+Passenger,Passengers on board (arrivals),LONDON/CITY,2006-07-01,11775
+Passenger,Passengers on board (arrivals),LONDON HEATHROW,2006-07-01,4840
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2006-04-01,6907
+Passenger,Passengers on board (arrivals),GENEVA,2006-04-01,3909
+Passenger,Passengers on board (arrivals),ZURICH,2006-04-01,8145
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2006-04-01,16284
+Passenger,Passengers on board (arrivals),SAARBRUECKEN,2006-04-01,4340
+Passenger,Passengers on board (arrivals),BERLIN-TEGEL,2006-04-01,3747
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2006-04-01,10967
+Passenger,Passengers on board (arrivals),IRAKLION/NIKOS KAZANTZAKIS,2006-04-01,3522
+Passenger,Passengers on board (arrivals),GRAN CANARIA,2006-04-01,4766
+Passenger,Passengers on board (arrivals),TENERIFE SUR/REINA SOFIA,2006-04-01,3973
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2006-04-01,4724
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2006-04-01,10027
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2006-04-01,3563
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2006-04-01,18016
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2006-04-01,5773
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2006-04-01,5545
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2006-04-01,10001
+Passenger,Passengers on board (arrivals),PORTO,2006-04-01,9867
+Passenger,Passengers on board (arrivals),LISBOA,2006-04-01,4933
+Passenger,Passengers on board (arrivals),MONASTIR/HABIB BOURGUIBA,2006-04-01,3974
+Passenger,Passengers on board (arrivals),DJERBA/ZARZIS,2006-04-01,6834
+Passenger,Passengers on board (arrivals),LONDON GATWICK,2006-04-01,6753
+Passenger,Passengers on board (arrivals),LONDON/CITY,2006-04-01,13397
+Passenger,Passengers on board (arrivals),LONDON HEATHROW,2006-04-01,5022
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2006-01-01,5651
+Passenger,Passengers on board (arrivals),GENEVA,2006-01-01,3859
+Passenger,Passengers on board (arrivals),ZURICH,2006-01-01,6687
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2006-01-01,15209
+Passenger,Passengers on board (arrivals),SAARBRUECKEN,2006-01-01,3687
+Passenger,Passengers on board (arrivals),BERLIN-TEGEL,2006-01-01,3103
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2006-01-01,9412
+Passenger,Passengers on board (arrivals),GRAN CANARIA,2006-01-01,4645
+Passenger,Passengers on board (arrivals),TENERIFE SUR/REINA SOFIA,2006-01-01,3868
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2006-01-01,4304
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2006-01-01,1009
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2006-01-01,2464
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2006-01-01,17091
+Passenger,Passengers on board (arrivals),MILANO/MALPENSA,2006-01-01,4512
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2006-01-01,3625
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2006-01-01,8771
+Passenger,Passengers on board (arrivals),PORTO,2006-01-01,9447
+Passenger,Passengers on board (arrivals),LISBOA,2006-01-01,3396
+Passenger,Passengers on board (arrivals),MONASTIR/HABIB BOURGUIBA,2006-01-01,2210
+Passenger,Passengers on board (arrivals),DJERBA/ZARZIS,2006-01-01,2584
+Passenger,Passengers on board (arrivals),LONDON GATWICK,2006-01-01,4374
+Passenger,Passengers on board (arrivals),LONDON/CITY,2006-01-01,11745
+Passenger,Passengers on board (arrivals),LONDON HEATHROW,2006-01-01,4890
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2005-10-01,6361
+Passenger,Passengers on board (arrivals),GENEVA,2005-10-01,3910
+Passenger,Passengers on board (arrivals),ZURICH,2005-10-01,6689
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2005-10-01,16791
+Passenger,Passengers on board (arrivals),SAARBRUECKEN,2005-10-01,4049
+Passenger,Passengers on board (arrivals),BERLIN-TEGEL,2005-10-01,3401
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2005-10-01,4127
+Passenger,Passengers on board (arrivals),IRAKLION/NIKOS KAZANTZAKIS,2005-10-01,1595
+Passenger,Passengers on board (arrivals),GRAN CANARIA,2005-10-01,4071
+Passenger,Passengers on board (arrivals),TENERIFE SUR/REINA SOFIA,2005-10-01,4017
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2005-10-01,4540
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2005-10-01,4696
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2005-10-01,2705
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2005-10-01,17831
+Passenger,Passengers on board (arrivals),BERGAMO/ORIO AL SERIO,2005-10-01,1739
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2005-10-01,4362
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2005-10-01,9273
+Passenger,Passengers on board (arrivals),PORTO,2005-10-01,6863
+Passenger,Passengers on board (arrivals),LISBOA,2005-10-01,5107
+Passenger,Passengers on board (arrivals),MONASTIR/HABIB BOURGUIBA,2005-10-01,2941
+Passenger,Passengers on board (arrivals),DJERBA/ZARZIS,2005-10-01,3475
+Passenger,Passengers on board (arrivals),LONDON GATWICK,2005-10-01,4618
+Passenger,Passengers on board (arrivals),LONDON/CITY,2005-10-01,11829
+Passenger,Passengers on board (arrivals),LONDON HEATHROW,2005-10-01,5940
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2005-07-01,6545
+Passenger,Passengers on board (arrivals),GENEVA,2005-07-01,3000
+Passenger,Passengers on board (arrivals),ZURICH,2005-07-01,6393
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2005-07-01,16868
+Passenger,Passengers on board (arrivals),SAARBRUECKEN,2005-07-01,4165
+Passenger,Passengers on board (arrivals),BERLIN-TEGEL,2005-07-01,3443
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2005-07-01,4180
+Passenger,Passengers on board (arrivals),IRAKLION/NIKOS KAZANTZAKIS,2005-07-01,6751
+Passenger,Passengers on board (arrivals),GRAN CANARIA,2005-07-01,4847
+Passenger,Passengers on board (arrivals),TENERIFE SUR/REINA SOFIA,2005-07-01,4363
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2005-07-01,4497
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2005-07-01,19313
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2005-07-01,4519
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2005-07-01,15472
+Passenger,Passengers on board (arrivals),BERGAMO/ORIO AL SERIO,2005-07-01,4547
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2005-07-01,3742
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2005-07-01,9270
+Passenger,Passengers on board (arrivals),PORTO,2005-07-01,11206
+Passenger,Passengers on board (arrivals),LISBOA,2005-07-01,9804
+Passenger,Passengers on board (arrivals),MONASTIR/HABIB BOURGUIBA,2005-07-01,5843
+Passenger,Passengers on board (arrivals),DJERBA/ZARZIS,2005-07-01,6203
+Passenger,Passengers on board (arrivals),LONDON GATWICK,2005-07-01,4756
+Passenger,Passengers on board (arrivals),LONDON/CITY,2005-07-01,10996
+Passenger,Passengers on board (arrivals),LONDON HEATHROW,2005-07-01,5832
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2005-04-01,7209
+Passenger,Passengers on board (arrivals),GENEVA,2005-04-01,3856
+Passenger,Passengers on board (arrivals),ZURICH,2005-04-01,6518
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2005-04-01,18924
+Passenger,Passengers on board (arrivals),SAARBRUECKEN,2005-04-01,4215
+Passenger,Passengers on board (arrivals),BERLIN-TEGEL,2005-04-01,3800
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2005-04-01,6094
+Passenger,Passengers on board (arrivals),IRAKLION/NIKOS KAZANTZAKIS,2005-04-01,3598
+Passenger,Passengers on board (arrivals),GRAN CANARIA,2005-04-01,4489
+Passenger,Passengers on board (arrivals),TENERIFE SUR/REINA SOFIA,2005-04-01,3622
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2005-04-01,5051
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2005-04-01,10182
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2005-04-01,4453
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2005-04-01,18632
+Passenger,Passengers on board (arrivals),BERGAMO/ORIO AL SERIO,2005-04-01,6121
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2005-04-01,4423
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2005-04-01,10422
+Passenger,Passengers on board (arrivals),PORTO,2005-04-01,4597
+Passenger,Passengers on board (arrivals),LISBOA,2005-04-01,9189
+Passenger,Passengers on board (arrivals),MONASTIR/HABIB BOURGUIBA,2005-04-01,4316
+Passenger,Passengers on board (arrivals),DJERBA/ZARZIS,2005-04-01,6053
+Passenger,Passengers on board (arrivals),LONDON GATWICK,2005-04-01,4848
+Passenger,Passengers on board (arrivals),LONDON/CITY,2005-04-01,12943
+Passenger,Passengers on board (arrivals),LONDON HEATHROW,2005-04-01,4761
+Passenger,Passengers on board (arrivals),WIEN-SCHWECHAT,2005-01-01,5730
+Passenger,Passengers on board (arrivals),GENEVA,2005-01-01,3729
+Passenger,Passengers on board (arrivals),ZURICH,2005-01-01,5332
+Passenger,Passengers on board (arrivals),FRANKFURT/MAIN,2005-01-01,16333
+Passenger,Passengers on board (arrivals),SAARBRUECKEN,2005-01-01,3006
+Passenger,Passengers on board (arrivals),BERLIN-TEGEL,2005-01-01,3058
+Passenger,Passengers on board (arrivals),KOBENHAVN/KASTRUP,2005-01-01,4774
+Passenger,Passengers on board (arrivals),GRAN CANARIA,2005-01-01,4724
+Passenger,Passengers on board (arrivals),TENERIFE SUR/REINA SOFIA,2005-01-01,4027
+Passenger,Passengers on board (arrivals),ADOLFO SUAREZ MADRID-BARAJAS,2005-01-01,4210
+Passenger,Passengers on board (arrivals),PALMA DE MALLORCA,2005-01-01,1712
+Passenger,Passengers on board (arrivals),NICE-COTE D'AZUR,2005-01-01,2940
+Passenger,Passengers on board (arrivals),PARIS-CHARLES DE GAULLE,2005-01-01,16203
+Passenger,Passengers on board (arrivals),BERGAMO/ORIO AL SERIO,2005-01-01,4306
+Passenger,Passengers on board (arrivals),ROMA/FIUMICINO,2005-01-01,2648
+Passenger,Passengers on board (arrivals),AMSTERDAM/SCHIPHOL,2005-01-01,8020
+Passenger,Passengers on board (arrivals),PORTO,2005-01-01,6139
+Passenger,Passengers on board (arrivals),LISBOA,2005-01-01,8155
+Passenger,Passengers on board (arrivals),MONASTIR/HABIB BOURGUIBA,2005-01-01,2540
+Passenger,Passengers on board (arrivals),DJERBA/ZARZIS,2005-01-01,3134
+Passenger,Passengers on board (arrivals),LONDON GATWICK,2005-01-01,3748
+Passenger,Passengers on board (arrivals),LONDON/CITY,2005-01-01,10521
+Passenger,Passengers on board (arrivals),LONDON HEATHROW,2005-01-01,3968
